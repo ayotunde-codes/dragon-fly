@@ -49,7 +49,7 @@ Before running the project, ensure that you have the following installed:
    Create a `.env` file in the root directory of the project and add the following variable:
 
    ```
-   REACT_APP_API_KEY=your_api_key_here
+   VITE_APP_API_KEY=your_api_key_here
    ```
 
    Replace `your_api_key_here` with your actual Dragonfly API key.
