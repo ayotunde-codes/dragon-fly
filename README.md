@@ -36,13 +36,7 @@ Before running the project, ensure that you have the following installed:
    git clone https://github.com/your-username/dragonfly-file-upload.git
    ```
 
-2. Navigate to the project directory:
-
-   ```bash
-   cd dragonfly-file-upload
-   ```
-
-3. Install the dependencies:
+2. Install the dependencies:
 
    ```bash
    npm install
@@ -50,7 +44,7 @@ Before running the project, ensure that you have the following installed:
    yarn install
    ```
 
-4. Set up the environment variables:
+3. Set up the environment variables:
 
    Create a `.env` file in the root directory of the project and add the following variable:
 
@@ -60,7 +54,7 @@ Before running the project, ensure that you have the following installed:
 
    Replace `your_api_key_here` with your actual Dragonfly API key.
 
-5. Start the development server:
+4. Start the development server:
 
    ```bash
    npm run dev
@@ -70,7 +64,7 @@ Before running the project, ensure that you have the following installed:
 
    This will start the development server and open the application in your default browser.
 
-6. Open your browser and visit `http://localhost:3000` to see the application running.
+5. Open your browser and visit `http://localhost:3000` to see the application running.
 
 ## Testing the Application
 
